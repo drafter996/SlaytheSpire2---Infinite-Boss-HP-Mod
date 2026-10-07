@@ -1,0 +1,4 @@
+{
+  "INFINITE_BOSS_HP_SHADOW_DAMAGE.title": "累计伤害",
+  "INFINITE_BOSS_HP_SHADOW_DAMAGE.description": "击倒 Boss 后，其影子累计受到的伤害。\n当最后一名存活玩家将被击倒时，影子随之消散，战斗以胜利结算。"
+}

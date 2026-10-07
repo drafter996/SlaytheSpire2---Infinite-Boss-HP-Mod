@@ -1,0 +1,4 @@
+{
+  "INFINITE_BOSS_HP_SHADOW_DAMAGE.title": "Total Damage",
+  "INFINITE_BOSS_HP_SHADOW_DAMAGE.description": "Damage dealt to the boss's shadow after defeating the boss.\nWhen the last surviving player would be defeated, the shadow fades and the fight ends in victory."
+}

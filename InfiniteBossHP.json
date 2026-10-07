@@ -1,0 +1,14 @@
+{
+  "id": "InfiniteBossHP",
+  "name": "InfiniteBossHP",
+  "author": "drafter",
+  "description": "Turns the final Act 3 boss into an infinite-HP damage challenge after its normal defeat threshold.",
+  "version": "v0.1.0",
+  "min_game_version": "0.111.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    { "id": "BaseLib", "min_version": "3.4.7" }
+  ],
+  "affects_gameplay": true
+}
